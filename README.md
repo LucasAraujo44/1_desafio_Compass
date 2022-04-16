@@ -59,7 +59,7 @@ Resposta :
 18.	Qual a extensão ".xxx" contêm as definições da tabela? 
 a.	Commands.myi 
 b.	Commands.frm 
-c.	Commands.myd 
+c.	Commands.myd // Alternativa correta é a letra C
 d.	{mysqlDirectory}/data 
 	
 19.	A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá.  
@@ -75,12 +75,11 @@ d.	C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery
 	Resposta : mongoexport  
 
 22.	Para que usamos o MongoDB? 
-	Resposta: 
+	Resposta: Quando queremos guardar dados em documentos, ao contrario de usar os  padrões das tabelas como nos bancos relacionais, desta forma podemos alterar os registros. Sendo assim, conseguimos alterar a estrutura que no mongodb é tratada como documento. Podemos fazer isso adicionando novos campos ou deletando os campos que já foram adicionados anteriormente, esse recurso do mongo é bem usado e faz com que as relações hierárquicas possam ser representadas com sucesso.
 
 
 23.	Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
-	Resposta : O código 200 significa OK, ou Sucesso, que não houve nenhum problema no processamento da requisição e ela foi bem sucedida.
-Existem mais códigos que começam com 2xx. No entanto 200 é de longe o mais utilizado, principalmente no desenvolvimento de uma aplicação web.
+	Resposta : O código 200 significa OK, ou Sucesso, que não houve nenhum problema no processamento da requisição e ela foi bem sucedida. Existem mais códigos que começam com 2xx. No entanto 200 é de longe o mais utilizado, principalmente no desenvolvimento de uma aplicação web.
 Resposta : 25.	O código 200 significa OK, ou Sucesso, que não houve nenhum problema no processamento da requisição e ela foi bem sucedida(successful responses).
 Existem mais códigos que começam com 2xx. No entanto 200 é de longe o mais utilizado, principalmente no desenvolvimento de uma aplicação web.
 3xx normalmente significa que o navegador precisa fazer algo a mais (o cliente precisa agir).pois algo mudou ou um recurso não existe mais. Orientamos a redirecionar os sites(Redirection messages)
@@ -89,5 +88,5 @@ A classe 5xx significa que houve algum problema no servidor.
 Por exemplo: 500 - Internal Server Error, ou outro famoso: 503 - Service Unavailable.
 O código 500 acontece com frequência quando estamos desenvolvendo uma aplicação web e, ao testar, percebemos que erramos algo na lógica que gerou um problema no servidor(server error responser).
 
-24.	Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:
+24. 	Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:
 	Resposta :
