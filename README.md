@@ -66,16 +66,20 @@ d.	{mysqlDirectory}/data
 Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados? 
 a.	/{database_name_folder}/{database_tables_and_files}. 
 b.	C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm 
-c.	C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd 
+c.	C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd // Alternativa correta é a letra C
 d.	C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery 
 
 20.	Qual a extensão ".xxx" que contêm os dados da tabela? 
-21.	Qual comando usa-se para extração de arquivos em MongoDB durante a instalação? mongoexport  
+	Resposta : 
+21.	Qual comando usa-se para extração de arquivos em MongoDB durante a instalação? 
+	Resposta : mongoexport  
 
 22.	Para que usamos o MongoDB? 
+	Resposta: 
 
 
-23.	Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)!  O código 200 significa OK, ou Sucesso, que não houve nenhum problema no processamento da requisição e ela foi bem sucedida.
+23.	Exemplifique para que serve os metódos http 1xx, 2xx, 3xx, 4xx e 5xx. De uma forma macro (geral)! 
+	Resposta : O código 200 significa OK, ou Sucesso, que não houve nenhum problema no processamento da requisição e ela foi bem sucedida.
 Existem mais códigos que começam com 2xx. No entanto 200 é de longe o mais utilizado, principalmente no desenvolvimento de uma aplicação web.
 Resposta : 25.	O código 200 significa OK, ou Sucesso, que não houve nenhum problema no processamento da requisição e ela foi bem sucedida(successful responses).
 Existem mais códigos que começam com 2xx. No entanto 200 é de longe o mais utilizado, principalmente no desenvolvimento de uma aplicação web.
@@ -85,7 +89,5 @@ A classe 5xx significa que houve algum problema no servidor.
 Por exemplo: 500 - Internal Server Error, ou outro famoso: 503 - Service Unavailable.
 O código 500 acontece com frequência quando estamos desenvolvendo uma aplicação web e, ao testar, percebemos que erramos algo na lógica que gerou um problema no servidor(server error responser).
 
-
-
-
 24.	Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:
+	Resposta :
