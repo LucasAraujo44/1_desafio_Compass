@@ -54,7 +54,10 @@ Resposta : Post adiciona as informações usando o recurso da URI passada e o Pu
 Resposta : Post
 
 17.	Quais são os três status code que modem ser utilizados para realizar o delete? 
-Resposta : 
+Resposta : Status 202, quando a ação teve sucesso mas  ainda não foi realizada .(Accepted)
+	Status 204 quando a ação foi realizada e nenhuma outra informação deve ser fornecida(No Content).
+	Status 200 quando a mensagem foi realizada e a mensagem de resposta inclui uma representação descrevendo o status (ok).
+
 	
 18.	Qual a extensão ".xxx" contêm as definições da tabela? 
 a.	Commands.myi 
