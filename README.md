@@ -72,7 +72,7 @@ d.	C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery
 20.	Qual a extensão ".xxx" que contêm os dados da tabela? 
 	Resposta : 
 21.	Qual comando usa-se para extração de arquivos em MongoDB durante a instalação? 
-	Resposta : mongoexport  
+	Resposta : mongod --dbpath <path to data directory>  
 
 22.	Para que usamos o MongoDB? 
 	Resposta: Quando queremos guardar dados em documentos, ao contrario de usar os  padrões das tabelas como nos bancos relacionais, desta forma podemos alterar os registros. Sendo assim, conseguimos alterar a estrutura que no mongodb é tratada como documento. Podemos fazer isso adicionando novos campos ou deletando os campos que já foram adicionados anteriormente, esse recurso do mongo é bem usado e faz com que as relações hierárquicas possam ser representadas com sucesso.
